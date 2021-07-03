@@ -1,1 +1,1 @@
-# notion-weather
+# bt-notion-widgets
